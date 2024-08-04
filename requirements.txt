@@ -1,0 +1,6 @@
+pip~=23.2.1
+wheel~=0.41.2
+pyee~=11.1.0
+setuptools~=68.2.0
+greenlet~=3.0.3
+playwright~=1.45.1
